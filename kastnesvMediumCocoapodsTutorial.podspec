@@ -12,7 +12,7 @@ Pod::Spec.new do |spec|
   spec.source       = { 
     :git => 'https://github.com/kastnesv/kastnesvMediumCocoapodsTutorial.git', 
     :branch => 'main',
-    :tag => spec.version.to_s 
+    :tag => spec.version.to_s
   }
   spec.summary      = 'Example for following a Medium Tutorial'
   spec.source_files = '**/*.swift', '*.swift'

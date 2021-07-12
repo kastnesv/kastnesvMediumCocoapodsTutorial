@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'kastnesvMediumCocoapodsTutorial'
-  spec.version      = '1.0'
+  spec.version      = '1.0.1'
   spec.authors      = { 
     'Sven Kastner' => 'kastner.sven@yahoo.de'
   }

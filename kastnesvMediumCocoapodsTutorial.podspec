@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'kastnesvMediumCocoapodsTutorial'
-  spec.version      = '1.1'
+  spec.version      = '1.2'
   spec.authors      = { 
     'Sven Kastner' => 'kastner.sven@yahoo.de'
   }
@@ -12,7 +12,7 @@ Pod::Spec.new do |spec|
   spec.source       = { 
     :git => 'https://github.com/kastnesv/kastnesvMediumCocoapodsTutorial.git', 
     :branch => 'main',
-    :tag => spec.version.to_s
+    :tag => '1.2'
   }
   spec.summary      = 'Example for following a Medium Tutorial'
   spec.source_files = '**/*.swift', '*.swift'

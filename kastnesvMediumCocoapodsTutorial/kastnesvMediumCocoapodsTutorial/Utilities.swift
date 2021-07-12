@@ -51,3 +51,7 @@ public func log(_ x: Int) -> Int {
 public func yeet() {
     print("YEET")
 }
+
+public func yoot() {
+    print("YOOT")
+}

@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = 'https://github.com/kastnesv/kastnesvMediumCocoapodsTutorial'
   spec.source       = { 
     :git => 'https://github.com/kastnesv/kastnesvMediumCocoapodsTutorial.git', 
-    :branch => 'master',
+    :branch => 'main',
     :tag => spec.version.to_s 
   }
   spec.summary      = 'Example for following a Medium Tutorial'
